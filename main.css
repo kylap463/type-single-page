@@ -51,7 +51,7 @@ footer{
 
 /* font styling area */
 h2{
-    color: firebrick;
+    color: rgb(0, 0, 0);
     font-variation-settings: "opsz" 16, "wght" 900, "slnt" -8;
 }
 
@@ -95,7 +95,7 @@ h3{
 
 h5{
     font-size:40px;
-    color:blue;
+    color:rgb(0, 0, 0);
     margin:15px;
 }
 
