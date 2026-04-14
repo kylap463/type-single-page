@@ -10,6 +10,7 @@
     body{
     background-color: #ffffff;
     font-family: "evolver-variable", sans-serif;
+    background-image: url("assets/1x/Asset_2.png");
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -27,21 +28,35 @@ grid-template-columns: 1fr 1fr;
 grid-template-rows: auto;
 grid-template-areas: 
     "v h"
+    "r r"
     "a a";
 }
 
 #history {
 grid-area: h;
 background-color: lightcoral;
+background-image: url("assets/1x/Asset_2.png");
 }
 
 #variations{
 grid-area: v;
+background-image: url("assets/1x/Asset_2.png");
 }
 
 #alphabet {
 grid-area: a;
+background-image: url("assets/1x/Asset_2.png");
 }
+#race-car{
+    grid-area: r;
+}
+}
+.hero{
+    background-image: url("assets/1x/Asset_1.png");
+    /* min-height: 500px; */
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: contain;
 }
 /* CSS for the footer */
 footer{
