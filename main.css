@@ -10,7 +10,7 @@
     body{
     background-color: #ffffff;
     font-family: "evolver-variable", sans-serif;
-    background-image: url("assets/1x/Asset_2.png");
+    background-image: url("assets/1x/1x/Asset_9.png");
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -52,7 +52,7 @@ background-image: url("assets/1x/Asset_2.png");
 }
 }
 .hero{
-    background-image: url("assets/1x/Asset_1.png");
+    background-image: url("assets/1x/1x/Asset_8.png");
     /* min-height: 500px; */
     width:100%;
     background-repeat: no-repeat;

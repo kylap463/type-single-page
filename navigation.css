@@ -7,12 +7,12 @@
   }
 
   h1{
-    color: rgb(211, 55, 55);
+    color: rgb(0, 0, 0);
   }
   
   header {
     /* where to set the color of the nav bar */
-      background: rgb(170, 51, 51);
+      background: #ab1f23;
       text-align: left;
       top:0px;
       position: fixed;
@@ -49,7 +49,7 @@
   }
   /* where to change the color of the font in the nav bar */
   nav a {
-      color: rgb(163, 144, 144);
+      color: rgb(0, 0, 0);
       text-decoration: none;
       font-size: 1.2rem;
       text-transform: lowercase;
@@ -58,7 +58,7 @@
   }
   /* where to change the font color of the nav bar pop-up */
   nav a:hover {
-      color: rgba(113, 210, 81, 0.66);
+      color: #ffffff;
   }
   
   .nav-checkbox:checked ~ nav {
@@ -149,7 +149,7 @@
       display: block;
       height: 3px;
       /* where to change color of underline on desktop nav */
-      background: rgb(233, 41, 41);
+      background: #f6a51c;
       position: absolute;
       top: 1.1em;
       left: 0;
