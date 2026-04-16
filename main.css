@@ -10,7 +10,7 @@
     body{
     background-color: #ffffff;
     font-family: "evolver-variable", sans-serif;
-    background-image: url("assets/1x/1x/Asset_9.png");
+    background-image: url("assets/1x/1x/Asset_13.png");
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -34,18 +34,17 @@ grid-template-areas:
 
 #history {
 grid-area: h;
-background-color: lightcoral;
-background-image: url("assets/1x/Asset_2.png");
+color: #ffffff;
 }
 
 #variations{
 grid-area: v;
-background-image: url("assets/1x/Asset_2.png");
+color: #ffffff;
 }
 
 #alphabet {
 grid-area: a;
-background-image: url("assets/1x/Asset_2.png");
+color: #ffffff;
 }
 #race-car{
     grid-area: r;
