@@ -60,18 +60,19 @@ background-image: url("assets/1x/Asset_2.png");
 }
 /* CSS for the footer */
 footer{
-    background-color: rgb(138, 21, 21);
+    background-color: rgb(255, 255, 255);
     height:200px;
 }
 
 /* font styling area */
 h2{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-variation-settings: "opsz" 16, "wght" 900, "slnt" -8;
 }
 
 h3{
     font-weight:20; 
+    color: #ffffff;
     text-align: center;
     font-size: 5em;
     animation: weightChange 7s infinite;
@@ -110,7 +111,7 @@ h3{
 
 h5{
     font-size:40px;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     margin:15px;
 }
 
